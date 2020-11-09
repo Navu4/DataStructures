@@ -5,18 +5,15 @@ Data Structures &amp; Algorithm from Beginner to Advanced questions
 Link : https://github.com/Navu4/DataStructures/tree/main/PDF%20%26%20Notes
 
 # Topic
-#### Data Types
-https://github.com/Navu4/DataStructures/tree/main/Data%20Types
+#### [Data Types](https://github.com/Navu4/DataStructures/tree/main/Data%20Types)
 - Data Types and Ranges
 -  Type modifiers
 - Input output in C++
-#### Conditional statement
-https://github.com/Navu4/DataStructures/tree/main/Conditional%20statement
+#### [Conditional statement](https://github.com/Navu4/DataStructures/tree/main/Conditional%20statement)
 - If 
 - If else
 - If ladder
-#### Loops
-https://github.com/Navu4/DataStructures/tree/main/Loops
+#### [Loops](https://github.com/Navu4/DataStructures/tree/main/Loops)
 - while 
 - do while
 - for
