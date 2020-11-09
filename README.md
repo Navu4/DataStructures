@@ -1,8 +1,8 @@
 # DataStructures
 Data Structures &amp; Algorithm from Beginner to Advanced questions
 
-## The Notes and PDF's for all the topic is in PDF & Notes folder
-Link : https://github.com/Navu4/DataStructures/
+##### The Notes and PDF's for all the topic is in PDF & Notes folder
+Link : https://github.com/Navu4/DataStructures/tree/main/PDF%20%26%20Notes
 
 # Topic
 #### Data Types
