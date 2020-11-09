@@ -3,7 +3,7 @@ Data Structures &amp; Algorithm from Beginner to Advanced questions
 
 > **The Notes and PDF's for all the topic is in [PDF & Notes](https://github.com/Navu4/DataStructures/tree/main/PDF%20%26%20Notes)**
 
-# Topic
+### Topics
 #### [Data Types](https://github.com/Navu4/DataStructures/tree/main/Data%20Types)
 - Data Types and Ranges
 -  Type modifiers
