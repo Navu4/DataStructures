@@ -16,4 +16,10 @@ Data Structures &amp; Algorithm from Beginner to Advanced questions
 - while 
 - do while
 - for
+- Break and continue
+- Switch
 
+#### [Patterns](https://github.com/Navu4/DataStructures/tree/main/Patterns)
+- Introductory examples
+- Pattern Questions
+- Difficult examples
