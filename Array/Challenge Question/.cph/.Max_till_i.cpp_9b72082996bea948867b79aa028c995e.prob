@@ -1,0 +1,1 @@
+{"name":"Local: Max_till_i","url":"e:\\C++\\Array\\Challenge Question\\Max_till_i.cpp","tests":[{"id":1604692905932,"input":"5\n0 -9 1 3 -4","output":"0 0 1 3 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++\\Array\\Challenge Question\\Max_till_i.cpp","group":"local","local":true}

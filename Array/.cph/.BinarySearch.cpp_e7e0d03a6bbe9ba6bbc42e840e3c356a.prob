@@ -1,0 +1,1 @@
+{"name":"Local: BinarySearch","url":"e:\\C++\\Array\\BinarySearch.cpp","tests":[{"id":1604666503625,"input":"5\n1 2 3 4 5\n9","output":"-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++\\Array\\BinarySearch.cpp","group":"local","local":true}
