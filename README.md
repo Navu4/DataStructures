@@ -23,3 +23,19 @@ Data Structures &amp; Algorithm from Beginner to Advanced questions
 - Introductory examples
 - Pattern Questions
 - Difficult examples
+
+#### [Functions](https://github.com/Navu4/DataStructures/tree/main/Functions)
+- Introduction to functions
+- Prime numbers
+- Factorial
+- Fibonacci
+- Examples
+
+#### [Arrays](https://github.com/Navu4/DataStructures/tree/main/Array)
+- Introduction to arrays
+- Linear search and Binary search
+- Sorting algorithms
+- STL sort
+- Max subarray sum
+- Pair sum problem
+
